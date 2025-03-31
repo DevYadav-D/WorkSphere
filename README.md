@@ -10,7 +10,8 @@ WorkSphere offeres an intuitive and efficient way to enhance productivity.
 
 ### Attendance Tracking
 
-- Log daily attendance and submit leave requests.
+Log daily attendance and submit leave requests.
+
 - Generate reports and view attendance trends.
 
 ### Interactive Dashboard
