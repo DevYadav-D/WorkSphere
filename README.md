@@ -10,15 +10,20 @@ WorkSphere offeres an intuitive and efficient way to enhance productivity.
 
 ### Attendance Tracking
 
+- Log daily attendance and submit leave requests.
+- Generate reports and view attendance trends.
+
 ### Interactive Dashboard
 
 ### User Roles
 
+- Role-based access for admins, team leads, and members.
+
 ## Tech Stack
 
-#### Back-End: Python
+#### Back-End: Python (FastAPI)
 
-#### Front-End React
+#### Front-End React (Next.js)
 
 #### Database: PostgreSQL
 
